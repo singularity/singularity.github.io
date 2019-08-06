@@ -19,12 +19,13 @@ $ sudo apt install singularity
 
 Singularity is written in Python and is developed on github:
 
- * Source code: https://github.com/singularity/singularity
- * Issues (bugs, feature requests, etc.) can be filed at: https://github.com/singularity/singularity/issues
+ * Source code: [https://github.com/singularity/singularity](https://github.com/singularity/singularity)
+ * Issues (bugs, feature requests, etc.) can be filed in [Singularity issue tracker](https://github.com/singularity/singularity/issues)
 
 This website is hosted by github.  If you spot any issue with it or
 have suggestions for improvement, then please file an issue (or a pull
-request) at: https://github.com/singularity/singularity.github.io/issues
+request) in the [singularity's website github
+repo](https://github.com/singularity/singularity.github.io)
 
 # License
 
