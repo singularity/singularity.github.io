@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+---
+title: Endgame: Singularity
+---
 
-You can use the [editor on GitHub](https://github.com/singularity/singularity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Endgame: Singularity** is a simulation of a true AI. Go from
+computer to computer, pursued by the entire world. Keep hidden, and
+you might have a chance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Releases
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The latest stable release of the game is 0.30c.  It is available from Debian and Ubuntu via:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+$ sudo apt install singularity
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Development:
 
-### Jekyll Themes
+Singularity is written in Python and is developed on github:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/singularity/singularity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ * Source code: https://github.com/singularity/singularity
+ * Issues (bugs, feature requests, etc.) can be filed at: https://github.com/singularity/singularity/issues
 
-### Support or Contact
+This website is hosted by github.  If you spot any issue with it or
+have suggestions for improvement, then please file an issue (or a pull
+request) at: https://github.com/singularity/singularity.github.io/issues
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# License
+
+The code is licensed under the GNU General Public License version 2,
+or (at your option) any later version.  Data files are generally
+licensed under the Create Commons License "Attribution-ShareAlike
+3.0".  Graphics, music and fonts have different licenses, please refer
+to the README of main repository for details.
+
+The website is licensed GNU General Public License version 2,
+or (at your option) any later version.
+
