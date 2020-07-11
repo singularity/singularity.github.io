@@ -6,14 +6,15 @@ title: Endgame: Singularity
 computer to computer, pursued by the entire world. Keep hidden, and
 you might have a chance.
 
+Please see
+[http://www.emsoft.com/singularity/](http://www.emsoft.com/singularity/)
+or [latest release on github] for the latest release notes.
 
-# Releases
+[latest release on github]: https://github.com/singularity/singularity/releases
 
-The latest stable release of the game is 0.30c.  It is available from Debian and Ubuntu via:
+# Installing singularity
 
-```sh
-$ sudo apt install singularity
-```
+Please review our [README](https://github.com/singularity/singularity#prebuilt-versions)
 
 ## Development:
 
@@ -33,7 +34,9 @@ The code is licensed under the GNU General Public License version 2,
 or (at your option) any later version.  Data files are generally
 licensed under the Create Commons License "Attribution-ShareAlike
 3.0".  Graphics, music and fonts have different licenses; please refer
-to the README of main repository for details.
+to the [LICENSE.txt file] of main repository for details.
 
 The website is licensed under the GNU General Public License version 2,
 or (at your option) any later version.
+
+[LICENSE.txt file]: https://github.com/singularity/singularity/blob/master/LICENSE.txt
